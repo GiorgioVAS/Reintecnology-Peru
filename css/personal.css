@@ -1,0 +1,13 @@
+#personal p {
+	font-size: 12px;
+	color: white;
+	text-shadow: 1px 1px black;
+	text-align: center;
+
+/* Regla general para todo el documento */
+*{
+	font-family: sans-serif;
+   	background: #0CF2A2;
+   	
+ } 
+
